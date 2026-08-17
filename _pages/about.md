@@ -27,6 +27,15 @@ I received my Bachelor of Engineering in Computer Science and Technology from [H
 
 📫 How to reach me: [sonaengji@gmail.com](mailto:sonaengji@gmail.com).
 
+<a href='https://scholar.google.com/citations?user=s2dJ6l0AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
+[![GitHub User's stars](https://img.shields.io/github/stars/sunyzhi55)](https://github.com/sunyzhi55)
+[![GitHub followers](https://img.shields.io/github/followers/sunyzhi55)](https://github.com/sunyzhi55)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=sunyzhi55&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=sunyzhi55)
+
+
+
+<span class='anchor' id='education'></span>
+
 # 📖 Educations
 
 

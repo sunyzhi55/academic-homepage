@@ -40,6 +40,26 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
+b {
+    color: #C70DFF;
+}
+strong {
+    color: #cc0000;
+}
+sup {
+    color: #e74c3c;
+}
+
+.highlight {
+    background-color: #00369f;
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: .8em;
+}
+
+
 .paper-box {
     display: flex;
     justify-content: left;
